@@ -26,3 +26,6 @@ Para las tareas del BootCamp de Java ATL Academy
   - Qué había antes de las metodologías ágiles.
   - Cuál es la metodología ágil más utilizada.
   - Se hizo actividades dela clase.
+
+
+# CLASE 002
