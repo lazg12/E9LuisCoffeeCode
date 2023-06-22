@@ -29,3 +29,12 @@ Para las tareas del BootCamp de Java ATL Academy
 
 
 # CLASE 002
+- Se explicó la metodología ágil de Scrum.
+- Funcionalidades de Scrum.
+  - Sirve para que haya el feedback con el cliente.
+  - Que el cliente vea semana a semana los avances.
+  - Si hay algo que cambiar se lo hace lo antes posible.
+  - Estimaciones de tareas.
+  - Actividades de clase.
+
+# CLASE 003

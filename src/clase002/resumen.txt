@@ -1,0 +1,46 @@
+BOOT CAMP DE JAVA
+
+Clase 001.
+
+Trabajar con Scrum.
+- La idea de trabajar con Scrum es que semana a semana se le pase un entregable al cliente, para que este
+no tenga que esperar mucho tiempo para ver los avances y se pueda corregir algún cambio requerido.
+
+- Estimaciones de tareas como se hacía antes.
+- El poker planning es para estimar el tiempo estimado para las tareas y tratar de medir el esfuerzo.
+- La dinámica es que el que votó el puntaje más pequeño discute con el que votó el puntaje más alto.
+
+Estimaciones de deuda técnica.
+- La deuda técnica son las pequeñas tareas que se van acumulando y hay que desarrollar, ya que se van
+acumulando y empiezan a haber errores y hay que resolverlas de acuerdo a la estimación Esfuerzo - valor,
+esto nos sirve para priorizar tareas.
+
+- La poker planing se hace una vez por spring.
+
+- Definition of ready, es un acuerdo que se dá dentro del equipo, donde este documento contiene la respuesta a
+¿Qué tiene que tener una tarea para poder INICIAR a trabajar en ella?
+
+- Más del 50% de errores es porque una tarea no está bien definida.
+
+- Definition of done, Es un acuerdo que se dá dentro del equipo, donde se indica cuándo una tarea
+está terminada.
+
+- Para considerar una tarea terminada debe tener la documentación hecha y todos los puntos
+cumplidos que se dio en el acuerdo.
+
+- Repositorios de código.
+- svn
+- git
+
+- plataformas para implementaciones de git
+GitHub,
+GitLab,
+Bitbucket
+
+- En el BootCamp se va utilizar git.
+
+- El proceso de CODE REVIEW es revisar el código de los programadores.
+
+- Comandos de git
+
+
