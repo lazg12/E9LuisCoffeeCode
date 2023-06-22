@@ -1,0 +1,13 @@
+BOOT CAMP DE JAVA
+url: https://www.youtube.com/watch?v=Np1jzbJkwbY&list=RDCMUCpLc0iDjL1_SJBaimhR7CIg&index=10
+
+Aquí inicia el BootCamp de Java de ATL Academy impartido por el Profesor Lucas Mov.
+
+El BooCamp va a iniciar el lunes 29 de mayo del 2023, donde las clases serán los lunes, martes y jueves, estas clases
+tendrán una duración de más o menos 3 horas durante 5 meses.
+
+El BootCamp está orientado al perfil de Programador Java Backend, el cupo es para 100 estudiantes.
+
+Se va a ver metodologías ágiles con Scrum.
+
+Se verá una hora de clase en vivo y 2 horas de trabajo en equipo.
