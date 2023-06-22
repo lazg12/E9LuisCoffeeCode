@@ -1,0 +1,81 @@
+BOOT CAMP DE JAVA
+
+Clase 001.
+
+La idea de este Boot Camp es que llegue a la mayor cantidad de gente posible.
+
+¿Cuánto tiempo dura el BootCamp?
+- Duración: 5 meses (hasta el 30 de octubre)
+- Días: Lunes, Martes y Jueves.
+- Horario: 13:30hs México, 14:30hs Colombia/Perú, 15:30hs Chile, 16:30hs Argentina, 21:30hs España
+
+¿Cómo será la dinámica?
+- 1 hora de clase online en vivo
+- 2 horas de actividades grupales a través del canal de Discord.
+- 8 equipos de 15 personas aproximadamente.
+
+¿Puedo hacer el Bootcamp si no estoy en la lista de alumnos?
+- Si, todos los contenidos serán gratuitos.
+
+¿Cuáles son los criterios de aprobación?
+Los requisitos para aprobar el bootcamp son:
+- Tener un 60% de asistencia (al menos de que tengas experiencia programando, en ese caso es un 40%).
+- Aprobar los ejercicios entregables (si desapruebas algún ejercicio lo puedes entregar nuevamente).
+- Aprobar el examen final (el examen final lo puedes tomar nuevamente un máximo de 3 veces).
+
+- En caso de aprobar recibirás un certificado de aprobación
+
+¿Qué se va aprender en este BootCamp?
+- Java.
+- Springboot / Hibernate.
+- Base de Datos con MySQL.
+- Javascript y ReactJS básico.
+- Diseño web con HTML / CSS.
+- JUnit, Mockito y Cucumber.
+- Scrum y Metodologías ágiles.
+- Git y Github.
+
+El equipo que más puntos obtenga se lleva un premio sorpresa.
+
+La meta es convertirse en "Trainee Backend (Java) Developer"
+
+Las motivaciones para ser desarrollador son muchas como dinero, trabajo remoto, etc.
+
+¿Qué perfiles existen?
+- Frontend Developer.
+- Backend Developer.
+- Database Admin.
+- Quality Assurance Tester.
+- User Experience Designer.
+- DevOps.
+- Data Scientist.
+- Cybersecurity Analyst.
+- Scrum Master.
+- y mucho más.
+
+Existen muchos lenguajes de programación los más utilizados son:
+- Python.
+- Java.
+- JavaScript.
+- C#.
+- C/C++.
+
+El lenguaje más difícil es Whitespace, porque solo se escribe con espacio, enter y tabulaciones,
+por lo que el código se va a ver en blanco.
+
+Rango de profesionalidad del programador Trainee Backend (Java) Developer
+
+Seniority   Experiencia
+Trainee     0 a 6 meses
+Junior      6 meses a 2 años
+Middle      2 años a 5 años
+Senior      más de 5 años
+
+Se va a trabajar con metodología ágiles con Atlassian Jira.
+
+Qué había antes de las metodologías ágiles.
+- Metodología en cascada.
+
+- La metodología ágil más utilizada es Scrum.
+
+- Actividades en de la clase.
